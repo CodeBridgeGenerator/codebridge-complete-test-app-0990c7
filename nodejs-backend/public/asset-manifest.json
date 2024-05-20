@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12f51559.css",
+    "main.js": "/static/js/main.b8d182dd.js",
+    "static/media/hello-img.png": "/static/media/hello-img.0c6179de88bc0ae7e12c.png",
+    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/RobotoMono-VariableFont_wght.ttf": "/static/media/RobotoMono-VariableFont_wght.e1d699e6544d0dbf6ec7.ttf",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-SemiBold.woff": "/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Light.woff": "/static/media/Inter-Light.994e34451cc19ede31d3.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/MarlinGeo-Regular.otf": "/static/media/MarlinGeo-Regular.bf29b8f822146e22331e.otf",
+    "static/media/MarlinGeo-Bold.otf": "/static/media/MarlinGeo-Bold.32939fbe6b567d610771.otf",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-SemiBold.woff2": "/static/media/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
+    "static/media/Inter-Light.woff2": "/static/media/Inter-Light.2d5198822ab091ce4305.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/Praktika-Light.otf": "/static/media/Praktika-Light.0e62e6c1bfa4c4aa32b6.otf",
+    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/index.html",
+    "main.12f51559.css.map": "/static/css/main.12f51559.css.map",
+    "main.b8d182dd.js.map": "/static/js/main.b8d182dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f51559.css",
+    "static/js/main.b8d182dd.js"
+  ]
+}

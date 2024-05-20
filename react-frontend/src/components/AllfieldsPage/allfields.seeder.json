@@ -1,0 +1,28 @@
+[
+    {
+        "fieldText1_string_text": "apple",
+        "fieldTextArea2_string_textarea": "a sentence",
+        "fieldTextIcon4_string_icon": "pi pi-users",
+        "fieldTextImage5_string_image": "image.jpg",
+        "fieldTextChip6_string_chip": "chips",
+        "fieldTextTag7_string_tag": "tags",
+        "fieldBooleanText1_boolean_boolean": true,
+        "fieldBooleanTick2_boolean_tick": "check",
+        "fieldBooleanCheckBox3_boolean_checkbox": "checkbox",
+        "fieldBooleanSwitch4_boolean_switch": "switch",
+        "fieldNumberText1_number_text": 12.3,
+        "fieldNumberBadge3_number_badge": 4,
+        "fieldNumberKnob4_number_knob": 5,
+        "fieldNumberRating5_number_rating": 6,
+        "fieldNumberSlider6_number_slider": 7,
+        "fieldNumberProgressBar7_number_progressbar": 8,
+        "fieldNumberCurrency8_number_currency": 12.34,
+        "fieldDateText1_date_text": 45424,
+        "fieldDateCalendar2_date_calendar": 45424.51648148148,
+        "fieldDateRange3_date_range": "['12/5/2024','12/5/2024']",
+        "fieldDateMulti4_date_multiple": "['12/5/2024','12/5/2024']",
+        "fieldDateTime5_date_time": 0.5208333333333334,
+        "fieldDateTime126_date_time12": 45424.520833333336,
+        "fieldDateTime247_date_time24": 45424.9375
+    }
+]
